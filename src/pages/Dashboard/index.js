@@ -83,7 +83,7 @@ const Dashboard = () => {
               fontSize: 18,
               marginStart: 10,
               marginEnd: 20,
-              flex: 1
+              flex: 1,
             }}
             placeholder="Cari"
             placeholderTextColor="#C8CFD0"
